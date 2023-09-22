@@ -53,3 +53,11 @@ Group 10 Repository for LLD Course
 1. KISS - keep it simple and stupid
 2. DRY - Don't repeat yourself
 3. YAGNI - You Aren't Gonna Need It 
+
+# Factory Design Pattern
+When to choose this pattern?
+* When implementation is different but on high level its same.
+* Used when we are using similar objects : Similar behaviour class.
+* Encapsulate object creation process.
+
+## Simple Factory
