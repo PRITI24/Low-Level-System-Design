@@ -1,0 +1,17 @@
+# Calculator
+
+Create Calculator application -
+It should support all basic mathematical calculations .
+Code should be extendable to accomodate future functionality with ease.
+Functionality to save the calculation for future reference .
+Functionality to load the past calculations which was saved earlier .
+You can either have a gui for this or can also make a command line application.
+
+Note : Use the above requirements as reference to create applications . You also have other functionalities as you like .
+
+Create a github repo and post your code . Also mention the group name if done in group .
+Please explain the project and steps to run it in readme file.
+
+## Details
+
+Breaking down calculator function into more specific components and understanding how these components interact.
